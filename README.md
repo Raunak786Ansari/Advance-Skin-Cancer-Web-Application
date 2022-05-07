@@ -1,1 +1,1 @@
-<h1 align=center> Skin Cancer Analyzer and Detector </h1>
+<h1 align=center><t> Advance Skin Cancer Detector Web Application</t> </h1>
